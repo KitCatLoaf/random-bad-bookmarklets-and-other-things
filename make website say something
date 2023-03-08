@@ -1,0 +1,1 @@
+javascript:var a=prompt('What would you like the website alert to say?');alert(a)
