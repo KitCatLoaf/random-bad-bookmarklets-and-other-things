@@ -1,0 +1,1 @@
+javascript:prompt('enter code');alert('initiated');alert('loading...');prompt('enter launch');alert('unrecognized');prompt('enter launch');alert('launch complete');alert('loading...');alert('launched');alert('loading...');prompt('leave session?%27);alert(%27done%27);alert(%27time (1:25) missile launched? (true)%27)
