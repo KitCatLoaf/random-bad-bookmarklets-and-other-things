@@ -1,0 +1,1 @@
+javascript:prompt('enter launch');alert('loading...');alert('unrecognized');alert('loading...');prompt('enter code');alert('unrecognized');alert('loading');alert('key token not found');alert('launch failed');alert('loading...');alert('leaving session');alert('time: (1:25) missile launched: (false)');
