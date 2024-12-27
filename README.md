@@ -1,4 +1,5 @@
 # random-bad-bookmarklets
+# THIS HAS BEEN DISCONTINUED (for now) - my school has blocked bookmarklets rendering this pretty much useless, thanks to everybody who used these! (I know they're terrible)
 
 THESE ARE REALLY BAD DONT EXPECT MUCH
 - bookmarklets are javascript codes that you can put into a bookmark and run by clicking on it (it must have javascript: before it though)
